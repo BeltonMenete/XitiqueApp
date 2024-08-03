@@ -31,7 +31,7 @@ Welcome to the Xitique API project! This API is built using .NET 8, providing a 
 1. Clone the repository:
     ```bash
     git clone https://github.com/BeltonMenete/XitiqueAPI.git
-    cd xitique-api
+    cd XitiqueAPI
     ```
 
 2. Build the project:
