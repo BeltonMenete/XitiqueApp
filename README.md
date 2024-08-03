@@ -16,7 +16,6 @@ Welcome to the Xitique API project! This API is built using .NET 8, providing a 
 - **RESTful API**: Adheres to REST principles for resource management.
 - **Entity Framework Core**: Utilized for database operations.
 - **Swagger**: Integrated for API documentation and testing.
-- **Docker**: Containerized application for easy deployment.
 - **CI/CD**: Continuous Integration and Deployment with GitHub Actions.
 
 ## Getting Started
