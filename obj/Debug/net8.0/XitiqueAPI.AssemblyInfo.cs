@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XitiqueAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7b143b14649ab896b05a1fe6a864c4c8722b279")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+804e879876bb3125657247ffc3844a3eb584f28f")]
 [assembly: System.Reflection.AssemblyProductAttribute("XitiqueAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XitiqueAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
