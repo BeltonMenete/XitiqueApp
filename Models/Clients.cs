@@ -3,9 +3,10 @@ using Microsoft.EntityFrameworkCore;
 
 namespace XitiqueAPI.Models
 {
-    public class Client
+    // Each Client details
+    public class Clients
     {
-        public Ulid Id { get; set; }
+        public Ulid ClientId { get; set; }
         public required string FirstName { get; set; }
         public required string LastName { get; set; }
         public required string Location { get; set; }
@@ -13,7 +14,7 @@ namespace XitiqueAPI.Models
         public decimal TotalAvailable { get; set; }
         public decimal TotalDebt { get; set; }
         public required string Password { get; set; }
-        public Ulid ClientHistory_Id { get; set; }
+        public Ulid ClientHistoryId { get; set; }
 
     }
 }
