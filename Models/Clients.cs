@@ -14,6 +14,7 @@ namespace XitiqueAPI.Models
         public decimal TotalAvailable { get; set; }
         public decimal TotalDebt { get; set; }
         public required string Password { get; set; }
+        public DateTime RegistryDate { get; set; }
         public Ulid ClientHistoryId { get; set; }
 
     }

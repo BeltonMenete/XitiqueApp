@@ -4,7 +4,7 @@ namespace XitiqueAPI.Models
     {
         public int Id { get; set; }
         public Ulid PublicId { get; set; }
-
         public DateTime DevolutionData { get; set; }
+        public DateTime CreatedOn { get; set; }
     }
 }
