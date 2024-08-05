@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 namespace XitiqueAPI.Models
 {
     // Each Client details
-    public class Clients
+    public class Client
     {
         public Ulid ClientId { get; set; }
         public required string FirstName { get; set; }

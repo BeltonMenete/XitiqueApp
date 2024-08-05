@@ -1,9 +1,9 @@
 namespace XitiqueAPI.Models
 {
-    public class Loans
+    public class Loan
     {
-        public int Id { get; set; }
-        public Ulid PublicId { get; set; }
+        public Ulid Id { get; set; }
+        public Ulid ClientId { get; set; }
         public DateTime DevolutionData { get; set; }
         public DateTime CreatedOn { get; set; }
     }

@@ -1,6 +1,6 @@
 namespace XitiqueAPI.Models
 {
-    public class Transactions
+    public class Transaction
     {
         public Ulid TransactionId { get; set; }
         public Ulid ClientID { get; set; }
