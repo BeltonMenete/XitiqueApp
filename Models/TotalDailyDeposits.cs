@@ -1,6 +1,6 @@
 namespace XitiqueAPI.Models
 {
-    public class TotalDailyDeposit
+    public class TotalDailyDeposits
     {
         public Guid Id { get; set; }
         public decimal Amount { get; set; }
