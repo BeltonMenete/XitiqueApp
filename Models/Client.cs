@@ -1,4 +1,6 @@
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 using Microsoft.EntityFrameworkCore;
 
 namespace XitiqueAPI.Models
@@ -6,6 +8,7 @@ namespace XitiqueAPI.Models
     // Client details
     public class Client
     {
+        [Required]
         public Guid ClientId { get; set; }
         public int TotalDays { get; set; }
         public required string FirstName { get; set; }

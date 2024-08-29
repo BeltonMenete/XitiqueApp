@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\belto\\OneDrive\\Desktop\\XitiqueAPI\\XitiqueAPI.csproj": {}
+    "C:\\Users\\belto\\Desktop\\XitiqueAPI\\XitiqueAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\belto\\OneDrive\\Desktop\\XitiqueAPI\\XitiqueAPI.csproj": {
+    "C:\\Users\\belto\\Desktop\\XitiqueAPI\\XitiqueAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\belto\\OneDrive\\Desktop\\XitiqueAPI\\XitiqueAPI.csproj",
+        "projectUniqueName": "C:\\Users\\belto\\Desktop\\XitiqueAPI\\XitiqueAPI.csproj",
         "projectName": "XitiqueAPI",
-        "projectPath": "C:\\Users\\belto\\OneDrive\\Desktop\\XitiqueAPI\\XitiqueAPI.csproj",
+        "projectPath": "C:\\Users\\belto\\Desktop\\XitiqueAPI\\XitiqueAPI.csproj",
         "packagesPath": "C:\\Users\\belto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\belto\\OneDrive\\Desktop\\XitiqueAPI\\obj\\",
+        "outputPath": "C:\\Users\\belto\\Desktop\\XitiqueAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\belto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
