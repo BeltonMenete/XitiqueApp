@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "n6jwauB+lQzpcLbCD3pILcb1KW8s/4aZtU0l54q6nLY=",
+  "Hash": "wYgohX5c5sI9FJW88BaAbvP2INC+8x1R497Bh+xeFrA=",
   "Source": "XitiqueAPI",
   "BasePath": "_content/XitiqueAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
