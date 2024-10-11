@@ -5,7 +5,6 @@ C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\XitiqueAPI.deps.json
 C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\XitiqueAPI.runtimeconfig.json
 C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\XitiqueAPI.dll
 C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\XitiqueAPI.pdb
-C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -105,6 +104,8 @@ C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\ru\Microsoft.CodeAna
 C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\XitiqueAPI.staticwebassets.endpoints.json
+C:\Users\belto\OneDrive\Desktop\XitiqueAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
 C:\Users\belto\OneDrive\Desktop\XitiqueAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\belto\OneDrive\Desktop\XitiqueAPI\obj\Debug\net8.0\staticwebassets\msbuild.XitiqueAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

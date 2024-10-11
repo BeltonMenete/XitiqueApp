@@ -1,9 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using AutoMapper;
 using XitiqueAPI.Models;
+using XitiqueAPI.Models.DTOs;
 
 namespace XitiqueAPI
 {

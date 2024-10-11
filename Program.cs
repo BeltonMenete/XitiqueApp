@@ -3,12 +3,11 @@ using XitiqueAPI.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 // Connection String Configurations
 var postgres = builder.Configuration.GetConnectionString("postgres");
 builder.Services.AddDbContext<AppDbContext>((options) => options.UseNpgsql(postgres));
 
+// Add services to the container.
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

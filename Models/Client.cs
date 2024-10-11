@@ -8,6 +8,7 @@ namespace XitiqueAPI.Models
     // Client details
     public class Client
     {
+        [Key]
         [Required]
         public byte[] Id { get; set; } = Ulid.NewUlid().ToByteArray();
         public int TotalDays { get; set; }
@@ -17,9 +18,7 @@ namespace XitiqueAPI.Models
         public decimal DailyAmount { get; set; }
         public decimal TotalAvailable { get; set; }
         public decimal TotalDebt { get; set; }
-        public required string Password { get; set; } = string.Empty;
         public DateTime RegistryDate { get; set; } = DateTime.Now;
-        // public Ulid ClientHistoryId { get; set; }
 
     }
 }
