@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using XitiqueAPI.ApplicationDbContext;
+using XitiqueAPI.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 // Connection String Configurations
 var postgres = builder.Configuration.GetConnectionString("postgres");
-builder.Services.AddDbContext<ApplicationDbContext>((options) => options.UseNpgsql(postgres));
+builder.Services.AddDbContext<AppDbContext>((options) => options.UseNpgsql(postgres));
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
