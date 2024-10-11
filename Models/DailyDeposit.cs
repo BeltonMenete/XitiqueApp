@@ -2,7 +2,7 @@ namespace XitiqueAPI.Models
 {
     public class DailyDeposit
     {
-        public Guid Id { get; set; }
+        public byte[] Id { get; set; } = Ulid.NewUlid().ToByteArray();
         public decimal DailyAccumulated { get; set; }
     }
 }

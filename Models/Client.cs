@@ -9,11 +9,11 @@ namespace XitiqueAPI.Models
     public class Client
     {
         [Required]
-        public Guid ClientId { get; set; }
+        public byte[] Id { get; set; } = Ulid.NewUlid().ToByteArray();
         public int TotalDays { get; set; }
         public required string FirstName { get; set; }
         public required string LastName { get; set; }
-        public  string Location { get; set; }
+        public string? Location { get; set; }
         public decimal DailyAmount { get; set; }
         public decimal TotalAvailable { get; set; }
         public decimal TotalDebt { get; set; }
