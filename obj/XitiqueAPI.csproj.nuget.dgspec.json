@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\belto\\OneDrive\\Desktop\\XitiqueAPI\\XitiqueAPI.csproj": {}
+    "c:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\XitiqueAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\belto\\OneDrive\\Desktop\\XitiqueAPI\\XitiqueAPI.csproj": {
+    "c:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\XitiqueAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\belto\\OneDrive\\Desktop\\XitiqueAPI\\XitiqueAPI.csproj",
+        "projectUniqueName": "c:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\XitiqueAPI.csproj",
         "projectName": "XitiqueAPI",
-        "projectPath": "C:\\Users\\belto\\OneDrive\\Desktop\\XitiqueAPI\\XitiqueAPI.csproj",
+        "projectPath": "c:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\XitiqueAPI.csproj",
         "packagesPath": "C:\\Users\\belto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\belto\\OneDrive\\Desktop\\XitiqueAPI\\obj\\",
+        "outputPath": "c:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\belto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,9 +47,31 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.0-rc.2.24474.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Ulid": {
+              "target": "Package",
+              "version": "[1.3.4, )"
             }
           },
           "imports": [
