@@ -8,6 +8,5 @@ namespace xitiqueAPI.Models.DTOs
     public class CreateClientDTO
     {
         public string? Name { get; set; }
-        public DateTime CreationDate { get; set; }
     }
 }

@@ -7,7 +7,7 @@ namespace xitiqueAPI.Models
 {
     public class Client
     {
-        public byte[] Id { get; set; } = Ulid.NewUlid().ToByteArray();
+        public Guid Id { get; set; } = Ulid.NewUlid().ToGuid();
         public string? Name { get; set; }
         public DateTime CreationDate { get; set; }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\XitiqueAPI.csproj": {}
+    "C:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\XitiqueAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\XitiqueAPI.csproj": {
+    "C:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\XitiqueAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\XitiqueAPI.csproj",
+        "projectUniqueName": "C:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\XitiqueAPI.csproj",
         "projectName": "XitiqueAPI",
-        "projectPath": "c:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\XitiqueAPI.csproj",
+        "projectPath": "C:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\XitiqueAPI.csproj",
         "packagesPath": "C:\\Users\\belto\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\obj\\",
+        "outputPath": "C:\\Users\\belto\\OneDrive\\Desktop\\xitiqueAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\belto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,17 +57,25 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.8, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Scalar.AspNetCore": {
+              "target": "Package",
+              "version": "[1.2.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.8.1, )"
             },
             "Ulid": {
               "target": "Package",
