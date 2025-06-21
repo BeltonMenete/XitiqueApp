@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4i8mJrLEyIo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Belton Menete\\RiderProjects\\XitiqueApp\\Xitique.Api\\Xitique.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Belton Menete\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Belton Menete\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Belton Menete\\.nuget\\packages\\scalar.aspnetcore\\2.4.22\\scalar.aspnetcore.2.4.22.nupkg.sha512"
+  ],
+  "logs": []
+}
