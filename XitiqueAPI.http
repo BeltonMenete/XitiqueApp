@@ -1,6 +1,0 @@
-@XitiqueAPI_HostAddress = http://localhost:5201
-
-GET {{XitiqueAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

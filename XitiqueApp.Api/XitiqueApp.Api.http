@@ -1,0 +1,6 @@
+@XitiqueApp.Api_HostAddress = http://localhost:5128
+
+GET {{XitiqueApp.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
