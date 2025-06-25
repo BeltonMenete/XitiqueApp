@@ -8,7 +8,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd5d3df0-9ab1-440c-a677-ee0e5ecf1c42" name="Changes" comment="" />
+    <list default="true" id="cd5d3df0-9ab1-440c-a677-ee0e5ecf1c42" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.XitiqueApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.XitiqueApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xitique.Api/obj/Debug/net9.0/Xitique.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Xitique.Api/obj/Debug/net9.0/Xitique.Api.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xitique.Api/obj/Debug/net9.0/Xitique.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Xitique.Api/obj/Debug/net9.0/Xitique.Api.AssemblyInfoInputs.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +91,8 @@
       <updated>1750491774460</updated>
       <workItem from="1750491781891" duration="413000" />
       <workItem from="1750498378016" duration="2193000" />
+      <workItem from="1750626202162" duration="48000" />
+      <workItem from="1750631258643" duration="9000" />
     </task>
     <servers />
   </component>
